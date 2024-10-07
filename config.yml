@@ -1,6 +1,3 @@
-meta:
-  version: 1.0.0
-active: true
 config-sparse:
   modules:
     aiSwapper:
@@ -744,25 +741,7 @@ config-sparse:
                   name: Daemon
                   root: ucp/plugins/Schlossgespenst-KI/resources/ai/Daemon/
                   active: true
-  plugins:
-    Schlossgespenst-KI:
-      config: {}
-    ucp2-evrey-aiv:
-      config: {}
-  load-order:
-    - extension: aiSwapper
-      version: 1.1.0
-    - extension: Schlossgespenst-KI
-      version: 1.0.0
-    - extension: ucp2-evrey-aiv
-      version: 2.15.1
-config-full:
-  modules:
-    aicloader:
-      config:
-        failureHandling:
-          contents:
-            value: ERROR_LOG
+
     aiSwapper:
       config:
         menu:
@@ -1532,37 +1511,3 @@ config-full:
                   name: Daemon
                   root: ucp/plugins/Schlossgespenst-KI/resources/ai/Daemon/
                   active: true
-    gmResourceModifier:
-      config: {}
-    textResourceModifier:
-      config: {}
-    files:
-      config: {}
-    aivloader:
-      config: {}
-  plugins:
-    Schlossgespenst-KI:
-      config: {}
-    ucp2-ai-files:
-      config: {}
-    ucp2-evrey-aiv:
-      config: {}
-  load-order:
-    - extension: gmResourceModifier
-      version: 0.2.0
-    - extension: textResourceModifier
-      version: 0.3.0
-    - extension: aicloader
-      version: 1.1.0
-    - extension: files
-      version: 1.1.0
-    - extension: aivloader
-      version: 1.0.0
-    - extension: aiSwapper
-      version: 1.1.0
-    - extension: Schlossgespenst-KI
-      version: 1.0.0
-    - extension: ucp2-ai-files
-      version: 2.15.1
-    - extension: ucp2-evrey-aiv
-      version: 2.15.1
