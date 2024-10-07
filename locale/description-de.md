@@ -4,6 +4,4 @@ Sieben davon Interpretationen von bekannten und weniger bekannten Historischen F
 Drei ohne bestimmtes Vorbild, wie der Bandit oder der Dämon.
 Und zu guter letzt Lord Woolsack aus Stronghold 1 und das Schlossgespenst!
 
-
-
 Hier in meiner präferierten Konfiguration.
