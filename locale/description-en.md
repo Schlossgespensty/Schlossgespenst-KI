@@ -3,4 +3,6 @@ Twelve new AIs, to mix things up a bit. Seven are interpretations of historical 
 
 Here in my preferred configuration.
 
+made by Schlossgespenst
+
 
