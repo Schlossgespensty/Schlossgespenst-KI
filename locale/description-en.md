@@ -8,6 +8,6 @@ You will find **interpretations of historical figures** such as *Jeanne d'Arc*, 
 
 All of the up to four new castles of the AIs, as well as their strategy and character, were thought up and created by me. The portraits, videos and voices are put together from parts of other games, images and the like. All voice and text files are in german.
 
-## Here in my preferred configuration.
+### Here in my preferred configuration.
 
 *made by Schlossgespenst*
