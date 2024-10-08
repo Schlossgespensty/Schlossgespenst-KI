@@ -10,4 +10,4 @@ Alle der bis zu vier neuen Burgen der KIs, sowie deren Strategie und Charakter w
 
 ### Hier in meiner präferierten Konfiguration.
 
-*Erstellt vom Schlossgespenst*
+*Erstellt vom [Schlossgespenst](https://github.com/Schlossgespensty)!*
