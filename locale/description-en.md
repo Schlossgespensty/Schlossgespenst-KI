@@ -10,4 +10,4 @@ All of the up to four new castles of the AIs, as well as their strategy and char
 
 ### Here in my preferred configuration.
 
-*made by Schlossgespenst*
+*made by [Schlossgespenst](https://github.com/Schlossgespensty)!*
