@@ -1,6 +1,6 @@
 name: Schlossgespenst-KI
 author: Schlossgespenst
-version: 1.0.0
+version: 1.0.1
 dependencies:
   Schlossgespenst-KI-files: ^1.0.0
   ucp2-ai-files: ^2.15.1
