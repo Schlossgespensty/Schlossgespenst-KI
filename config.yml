@@ -100,7 +100,7 @@ config-sparse:
           contents:
             suggested-value:
               enabled: true
-              sliderValue: 500
+              sliderValue: 800
         ai_attackwave:
           contents:
             suggested-value:
