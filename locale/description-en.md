@@ -8,7 +8,7 @@ You will find **interpretations of historical figures** such as *Jeanne d'Arc*, 
 **known characters** like *Lord Woolsack* and the *Schlossgespenst* and **new characters** such as the *Bandit* or the *Demon*.  
 The power of the new AIs ranges from around a Snake to a little above a Wolf (Fixed Vanilla).  
 
-![Bild](https://raw.githubusercontent.com/Schlossgespensty/Stuff/refs/heads/main/Schlossgespenst-KI-preview/Schlossgespenst-KI-preview-en.png)
+![Bild](https://raw.githubusercontent.com/Schlossgespensty/Content/refs/heads/main/Schlossgespenst-KI-preview/Schlossgespenst-KI-preview-en.png)
 
 All of the up to four new castles of the AIs, as well as their strategy and character, were thought up and created by me.  
 The portraits, videos and voices are put together from parts of other games, images and the like.   
