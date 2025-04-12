@@ -95,7 +95,7 @@ config-sparse:
                 absolute:
                   slider: 5
                 relative:
-                  slider: 0.5
+                  slider: 1
         ai_attacklimit:
           contents:
             suggested-value:
