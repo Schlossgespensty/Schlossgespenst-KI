@@ -9,7 +9,7 @@ Mit dabei sind **Interpretationen von Historische Figuren** wie *Jeanne d'Arc*, 
 Die Stärke der neuen KIs reicht von ungefähr einer Schlange bis zu etwas stärker als ein Wolf (Fixed Vanilla)  
  
 
-![Bild](https://raw.githubusercontent.com/Schlossgespensty/Stuff/refs/heads/main/Schlossgespenst-KI-preview/Schlossgespenst-KI-preview-de.png)
+![Bild](https://raw.githubusercontent.com/Schlossgespensty/Content/refs/heads/main/Schlossgespenst-KI-preview/Schlossgespenst-KI-preview-de.png)
 
 Alle der bis zu vier neuen Burgen der KIs, sowie deren Strategie und Charakter wurden von mir erdacht und erstellt.  
 Die Portraits, Videos und Stimmen sind zusammengebastelt aus Teilen von anderen Spielen, Bildern und Ähnlichem.  
